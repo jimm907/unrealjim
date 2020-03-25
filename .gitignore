@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 *.uasset
 *.zip
+*.xml
+*.pdb
+
+DerivedDataCache/
